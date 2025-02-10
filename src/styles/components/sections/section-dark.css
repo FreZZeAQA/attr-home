@@ -1,0 +1,25 @@
+section.section-dark {
+    @apply text-gray-300 bg-gray-950;
+}
+
+section.section-dark h1,
+section.section-dark h2,
+section.section-dark h3,
+section.section-dark h4,
+section.section-dark h5 {
+    @apply text-white;
+}
+
+section.section-dark p {
+    @apply text-gray-300;
+}
+
+section.section-dark p.text-medium {
+    @apply text-white;
+}
+
+
+section.section-dark p.text-subtitle {
+    @apply text-beige-300;
+}
+
